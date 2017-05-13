@@ -1,0 +1,3 @@
+[submodule "extract_zim/zim"]
+	path = extract_zim/zim
+	url = https://github.com/dignifiedquire/zim.git
